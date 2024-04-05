@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto é pequeno, porém interessante! Aqui você pesquisar trailer/filme e o vídeo será mostrado logo abaixo. 
+OBS: O foco aqui não é o css.
+Aprendizado: npm 'movie-trailer' para encontrar essas URLs e exibir o conteúdo usando outro pacote npm chamado 'react-player'.
